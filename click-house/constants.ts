@@ -35,7 +35,7 @@ export const PRODUCTS: Product[] = [
         description: "Profil Cherry, PBT, trwałe nadruki w kolorze Soft Cyan.", 
         category: "Keycapy", 
         icon: "🧢", 
-        image: 'https://images.unsplash.com/photo-1626218174358-77b7f9a46058?q=80&w=800&auto=format&fit=crop' 
+        image: 'https://images.pexels.com/photos/35471660/pexels-photo-35471660.jpeg' 
     },
     { 
         id: 5, 
