@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 Live Demo
-**[CLICK HOUSE LIVE DEMO](https://agnieszka335.github.io/ClickHouse/)**
+**[Click House demo](https://agnieszka335.github.io/ClickHouse/)**
 
 ---
 
@@ -13,7 +13,7 @@
 
 | Feature | Description |
 | :--- | :--- |
-| **🔐 Authentication** | Secure login system for both customers and administrators. |
+| **🔐 Authentication** | Secure login system for administrators. |
 | **📦 Dynamic Catalog** | A clean, responsive interface to browse and filter available products. |
 | **🛒 Shopping Cart** | Real-time cart functionality: add, remove, and manage items seamlessly. |
 | **🛠️ Admin Panel (CMS)** | Dedicated management system to edit products and track inventory without code. |
@@ -26,7 +26,7 @@
 * **Bundler:** `Vite`
 * **Language:** `TypeScript` 
 * **Methodology:** `AI-Assisted Engineering` (Architecture & logic optimized by AI)
-* **Frontend:** HTML5, CSS3, and Modern TS Logic
+* **Frontend:** HTML5, CSS3, and TypeScript Logic
 * **Management:** Integrated **CMS** for administrative control
 
 ---
@@ -44,7 +44,7 @@ This project serves as the practical capstone for the **Digital Sales Specialist
 
 ## 💻 Installation & Setup
 
-Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
+Ensure you have [Node.js](https://nodejs.org/) installed on your computer.
 
 1.  **Clone the repository**
     ```bash
@@ -66,7 +66,4 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 ---
 
-👤 **Author:** [Agnieszka Sobczyk]  
-
----
-_Created with ❤️ as part of the **Digital Sales Specialist** certification._
+👤 **Author:** Agnieszka Sobczyk
