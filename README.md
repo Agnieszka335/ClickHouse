@@ -48,7 +48,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/twoj-username/click-house.git](https://github.com/twoj-username/click-house.git)
+    git clone [https://github.com/Agnieszka335/ClickHouse.git]
     ```
 2.  **Navigate & Install**
     ```bash
